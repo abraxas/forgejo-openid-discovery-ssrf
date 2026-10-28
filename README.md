@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/forgejo-openid-discovery-ssrf">forgejo-openid-discovery-ssrf</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/forgejo-openid-discovery-ssrf"><strong>https://abraxaslabs.tech/research/forgejo-openid-discovery-ssrf</strong></a>
+</p>
+
 
 # forgejo-openid-discovery-ssrf
 
